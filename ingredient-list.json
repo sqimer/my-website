@@ -1,0 +1,15 @@
+{
+  "ingredient" : [ {
+    "amount" : 20,
+    "name" : "Fries"
+  }, {
+    "amount" : 5,
+    "name" : "Bread"
+  }, {
+    "amount" : 11,
+    "name" : "Meat"
+  }, {
+    "amount" : 2,
+    "name" : "Banana"
+  } ]
+}
